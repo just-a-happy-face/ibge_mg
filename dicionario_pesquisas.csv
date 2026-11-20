@@ -1,0 +1,16 @@
+﻿pesquisa_id,pesquisa,arquivo,niveis_geograficos,municipios_com_dado,indicadores,linhas,anos
+14,Produção Agrícola - Lavoura Temporária,producao_agricola___lavoura_temporaria_14.csv,municipio;uf,852,155,661850,2021;2022;2023;2024;2025
+15,Produção Agrícola - Lavoura Permanente,producao_agricola___lavoura_permanente_15.csv,municipio;uf,818,180,767700,2021;2022;2023;2024;2025
+16,Extração vegetal e Silvicultura,extracao_vegetal_e_silvicultura_16.csv,municipio;uf,826,134,565880,2021;2022;2023;2024;2025
+17,Mortalidade,mortalidade_17.csv,municipio;uf,853,125,533750,2018;2019;2020;2021;2022
+18,Pecuária,pecuaria_18.csv,municipio;uf,853,72,255360,2021;2022;2023;2024;2025
+22,Frota de veículos,frota_de_veiculos_22.csv,municipio;uf,853,22,93940,2021;2022;2023;2024;2025
+30,Pesquisa Nacional de Saneamento Básico,pesquisa_nacional_de_saneamento_basico_30.csv,municipio;uf,853,194,165676,2008;2017
+31,"Produção agrícola - Cereais, leguminosas e oleaginosas",producao_agricola___cereais__leguminosas_e_oleaginosas_31.csv,municipio;uf,852,75,63955,2007
+32,Serviços de saúde,servicos_de_saude_32.csv,municipio;uf,853,100,170800,2005;2009
+44,PNAD - Pesquisa Nacional por Amostra de Domicílios,pnad___pesquisa_nacional_por_amostra_de_domicilios_44.csv,uf,0,128,640,2011;2012;2013;2014;2015
+47,Pesquisa Nacional de Saúde,pesquisa_nacional_de_saude_47.csv,uf,0,72,72,2019
+10056,Pesquisa Nacional de Saúde do Escolar,pesquisa_nacional_de_saude_do_escolar_10056.csv,uf,0,77,123,2015;2019;2024
+10102,Censo 2022,censo_2022_10102.csv,municipio;uf,853,168,143472,2022
+10110,ESTADIC - Suplemento de Segurança Alimentar,estadic___suplemento_de_seguranca_alimentar_10110.csv,uf,0,349,349,2024
+10112,Dados sobre gênero,dados_sobre_genero_10112.csv,municipio;uf,853,28,23912,2022
